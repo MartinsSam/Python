@@ -1,5 +1,6 @@
 #SFM 05/2019
 # A versão 3.7 do Python utiliza uma nova forma de formatação
+# Python sempre recebe o valor como String. É necessário conversão para poder realizar a soma.
 n1 = int(input('Digite o primeiro valor:'))
 n2 = int(input('Digite o segundo valor:'))
 s = n1+n2

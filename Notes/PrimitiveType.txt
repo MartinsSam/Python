@@ -1,0 +1,10 @@
+06/2019
+
+Python always receive data as String. 
+
+Basic primitive types:
+ 
+	int 	Integer	7,2
+	float	Float	7.5,2.0
+	bool	Boolean (True/False)
+	str	String	'Hello','2.0'
