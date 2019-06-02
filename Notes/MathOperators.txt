@@ -1,0 +1,16 @@
+#06/2019
+#Curso em Vídeo
+#Aula 07 - Operadores Aritméticos
+	+	Adição			5+2==7
+	-	Subtração		5-2==3
+	*	Multiplicação		5*2==10
+	/	Divisão			5/2==2.5
+	**	Potência		5**2==25
+	//	Divisão inteira		5/2==2
+	%	Resto da divisão	5%2=1
+	
+	Ordem de precedência
+		0	()
+		1	**
+		2	*	/	//	%
+		3	+	-
