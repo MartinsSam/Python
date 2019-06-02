@@ -1,0 +1,9 @@
+#06/2019
+#In Python is not necessary declare type
+
+n = input("Type a value:")
+print((type(n))) #Type will return input value type
+print(n.isnumeric())#Will do type analisys trying to convert to number. The result is a boolean information
+print(n.isalpha())#Verify if is letter
+print(n.isalnum())#Verify if is letter or number.
+print(n.isupper())#Verify if input is in uppercase
