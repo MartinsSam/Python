@@ -1,0 +1,13 @@
+Curso em vídeo - Módulo 8
+import <libraryName> --> importar todas as funcionalidades da biblioteca
+from <libraryName> import <funcName> --> importa uma funcionalidade de uma biblioteca
+
+math
+	ceil - arrendonda para cima 
+	floor - arredonda para baixo
+	trunc - truncate
+	pow - potência(**)
+	sqrt - raiz quadrada
+	factorial - fatorial
+	
+	
